@@ -1,0 +1,23 @@
+{
+  "model": "HONDA",
+  "price": 120,
+  "mileage": 12000,
+  "engine": {
+    "type": "DIESEL",
+    "power": 210.0
+  },
+  "carBody": {
+    "color": "WHITE",
+    "type": "COMBI",
+    "components": [
+      "ABS",
+      "AIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  },
+  "wheel": {
+    "type": "WINTER",
+    "model": "GOODYEAR",
+    "size": 14
+  }
+}

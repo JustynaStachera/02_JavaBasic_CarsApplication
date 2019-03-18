@@ -1,0 +1,23 @@
+{
+  "model": "BMW",
+  "price": 340,
+  "mileage": 24000,
+  "engine": {
+    "type": "LPG",
+    "power": 410.0
+  },
+  "carBody": {
+    "color": "SILVER",
+    "type": "HATCHBACK",
+    "components": [
+      "ABS",
+      "AIR CONDITIONING",
+      "ALLOY WHEELS"
+    ]
+  },
+  "wheel": {
+    "type": "WINTER",
+    "model": "MICHELIN",
+    "size": 16
+  }
+}
